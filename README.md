@@ -13,7 +13,7 @@ C'est un jeu collaboratif : les joueurs doivent gérer collectivement leurs prio
 ## Mise en place
 Placer devant soi :
 - 1 tableau [kanban](https://fr.wikipedia.org/wiki/Kanban_(d%C3%A9veloppement))
-- Les cartes "Oh non" (faire une pile face vers le bas)
+- Les cartes "Le mail du jour" (faire une pile face vers le bas)
 - Les cartes "Zut" (faire une pile face vers le bas)
 - Les cartes "Bonne pratique de développement" (faire une pile face vers le bas)
 - Les cartes "Intérêt général" (faire une pile face vers le bas)
@@ -38,12 +38,6 @@ Pour déployer une fonctionnalité, tirer deux dés :
 - L’évènement peut être évité si une bonne pratique de dév a été adoptée
 - Noter sur une feuille de suivi le numéro du tour et le nombre de fonctionnalités mises en production
 
-## Tous les 5 tours
-Tirer deux dés :
-
-- Si le chiffre est entre 1 et 6, alors il y a un événement « Oh non »
-- L’événement peut être évité s’il y a assez de points de relation avec les sponsors
-
 ## Fin de la partie
 La partie s'arrête après le 20° tour.
 
@@ -63,7 +57,7 @@ Quelle est la stratégie qui vous pourrait la plus efficace / que feriez-vous di
 
 Quelle sont les aspects du jeu qui vous paraissent les plus irréalistes ? réalistes ?
 
-Quelles bonnes pratiques de développement (et carte zut associée) pourrait-on ajouter ? Quelles autres cartes (Oh non, intérêt général)
+Quelles bonnes pratiques de développement (et carte zut associée) pourrait-on ajouter ? Quelles autres mails du jour ?
 
 Les points d'intérêt général n'ont pas d'impact sur la réussite de la partie. Pourquoi sont-ils là ?
 
