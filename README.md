@@ -2,10 +2,12 @@
 
 Ce serious game est principalement à destination des agents publics. Il permet de découvrir à la fois quelques fondamentaux du développement d'un système d'information au sein de la fonction publique et d'entrevoir quelques situations ou événements de nature à accélérer ou ralentir les développements.
 
-Il s'inspire de la mécanique de [Built-in quality game](https://github.com/philou/built-in-quality-game) de [Philippe Bourgau](https://philippe.bourgau.net/) dont il partage la license et a été créé avec [Arno Amabile](linkedin.com/in/amabile-arno) et Charles Duchêne à l'occasion d'un cours sur les systèmes d'information au corps des mines.
+Il s'inspire de la mécanique de [Built-in quality game](https://github.com/philou/built-in-quality-game) de [Philippe Bourgau](https://philippe.bourgau.net/) dont il partage la license et a été créé par [Charles-Pierre Astolfi](https://www.linkedin.com/in/charles-pierre-astolfi/) avec [Arno Amabile](linkedin.com/in/amabile-arno) et Charles Duchêne à l'occasion d'un cours sur les systèmes d'information au corps des mines.
 
 # Objectif
 C'est un jeu collaboratif : les joueurs doivent gérer collectivement leurs priorités et coopèrent pour développer le plus de fonctionnalités possibles et les mettre en production le plus rapidement possible.
+
+# Matériel
 
 # Déroulement d'une partie
 ## Mise en place
@@ -22,8 +24,9 @@ Placer devant soi :
 - Faire avancer d'une colonne toutes les fonctionnalités et bonnes pratiques
 - Les bonnes pratiques sont automatiquement acquises (les poser devant soi) lorsqu'elles arrivent dans la colonne TODO
 - Tenter de mettre en production les fonctionnalités arrivées dans la colonne TODO (cf _infra_)
+- Lire le mail du jour (tirer une carte)
 
-- Quatre possibilités pour l’équipe :
+- Quatre possibilités :
   - Lancer le développement d'une nouvelle fonctionnalité (poser un postit dans la colonne la plus à gauche)
   - Lancer une bonne pratique de développement (tirer une carte bonne pratique et la poser dans la colonne la plus à gauche)
   - Faire vivre sa relation avec les sponsors politiques et métiers (tirer une carte sponsors et la poser devant soi)
@@ -62,5 +65,7 @@ Quelle sont les aspects du jeu qui vous paraissent les plus irréalistes ? réal
 
 Quelles bonnes pratiques de développement (et carte zut associée) pourrait-on ajouter ? Quelles autres cartes (Oh non, intérêt général)
 
+Les points d'intérêt général n'ont pas d'impact sur la réussite de la partie. Pourquoi sont-ils là ?
+
 # Contribuer
-N'hésitez pas à contribuer en proposant de nouvelles cartes via ce repo ou en nous contactan directement
+N'hésitez pas à contribuer en proposant de nouvelles cartes via [ce lien](https://docs.google.com/spreadsheets/d/1pD_ptL2mSqI8b2kogyoLT2_RpSPFCCoGUml8oFNLRDQ/edit#gid=0) ou en nous contactant directement.
