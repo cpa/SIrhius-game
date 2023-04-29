@@ -20,13 +20,14 @@ C'est un jeu collaboratif : les joueurs doivent gérer collectivement leurs prio
 
 Placer devant soi le tableau kanban [(télécharger)](https://drive.google.com/file/d/1wGi8Xu0C-6Jjlt0IHSm7kxlWoMk4xvjO/view?usp=sharing)
 
-Placer devant soi deux piles, _face vers le haut_ :
+Placer devant soi trois piles, _face vers le haut_ :
 - Les cartes "Bonne pratique de développement" [(télécharger)](https://drive.google.com/file/d/1krD4a3zmCbHdpnUfi4VMAwe8SUEqEgmW/view?usp=sharing)
 - Les cartes "Zut" [(télécharger)](https://drive.google.com/file/d/1krD4a3zmCbHdpnUfi4VMAwe8SUEqEgmW/view?usp=sharing)
+- Les cartes "Intérêt général" [(télécharger)](https://drive.google.com/file/d/1s8OxSbn2YW19glQ-PJANoqE4VVnyY7Tj/view?usp=sharing)
 
 Placer devant soi deux piles, _face vers le bas_ :
 - Les cartes "Le mail du jour" [(télécharger)](https://drive.google.com/file/d/1s8OxSbn2YW19glQ-PJANoqE4VVnyY7Tj/view?usp=sharing)
-- Les cartes "Intérêt général" [(télécharger)](https://drive.google.com/file/d/1s8OxSbn2YW19glQ-PJANoqE4VVnyY7Tj/view?usp=sharing)
+- Les cartes "Sponsors" [(télécharger)](https://drive.google.com/file/d/1s8OxSbn2YW19glQ-PJANoqE4VVnyY7Tj/view?usp=sharing)
 
 Préparer également :
 - Des morceaux de post-it pour symboliser les fonctionnalités
@@ -47,7 +48,7 @@ Quatre possibilités s'offrent au groupe :
 - Lancer le développement d'une nouvelle fonctionnalité (poser un postit dans la colonne la plus à gauche)
 - Lancer l'apprentissage d'une bonne pratique de développement (choisir une carte bonne pratique et la poser dans la colonne la plus à gauche)
 - Faire vivre sa relation avec les sponsors politiques et métiers (tirer une carte sponsors et la poser devant soi)
-- Réaliser une action "intérêt général" en tirant une carte 
+- Réaliser une action "intérêt général" (choisir une carte et la poser devant soi)
 
 Une fois la décision prise, plusieurs événements ont lieu :
 - Le développement des fonctionnalités et l'apprentissage des bonnes pratiques progresse : les faire avancer d'une colonne chacune
