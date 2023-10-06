@@ -6,7 +6,7 @@ Ce serious game a été conçu à destination des agents publics. Il a pour obje
 - de sensibiliser les participants à l'importance d'un investissement dans la qualité de l'équipe et du code produit ;
 - d'amorcer une discussion sur les arbitrages à réaliser (rapidité, qualité technique, sponsor, etc.)
 
-Il s'inspire de la mécanique de [Built-in quality game](https://github.com/philou/built-in-quality-game) de [Philippe Bourgau](https://philippe.bourgau.net/) dont il partage la license et a été créé par [Charles-Pierre Astolfi](https://www.linkedin.com/in/charles-pierre-astolfi/), [Arno Amabile](www.linkedin.com/in/amabile-arno) et Charles Duchêne à l'occasion d'un cours sur le développement de systèmes d'informations au sein de la majeure numérique de la formation des ingénieurs du Corps des Mines.
+Il s'inspire de la mécanique de [Built-in quality game](https://github.com/philou/built-in-quality-game) de [Philippe Bourgau](https://philippe.bourgau.net/) dont il partage la license et a été créé par [Charles-Pierre Astolfi](https://www.linkedin.com/in/charles-pierre-astolfi/), [Arno Amabile](https://www.linkedin.com/in/amabile-arno/) et Charles Duchêne à l'occasion d'un cours sur le développement de systèmes d'informations au sein de la majeure numérique de la formation des ingénieurs du Corps des Mines.
 
 Afin de se concentrer sur la partie développement, il n'évoque donc pas de façon approfondie la conception des produits numérique (design thinking, ateliers utilisateurs).
 
