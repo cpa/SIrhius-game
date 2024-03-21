@@ -46,7 +46,7 @@ Afin d'incarner le jeu, et d'amorcer la dynamique, un ice-breaker peut être fai
 
 Quatre possibilités s'offrent au groupe :
 - Lancer le développement d'une nouvelle fonctionnalité (poser un postit dans la colonne la plus à gauche)
-- Lancer l'apprentissage d'une bonne pratique de développement (choisir une carte bonne pratique et la poser dans la colonne la plus à gauche)
+- Lancer l'apprentissage d'une bonne pratique de développement (choisir une carte bonne pratique et la poser dans la colonne la plus à gauche, au même endroit que les fonctionnalités)
 - Faire vivre sa relation avec les sponsors politiques et métiers (tirer une carte sponsors et la poser devant soi)
 - Réaliser une action "intérêt général" (choisir une carte et la poser devant soi)
 
@@ -54,16 +54,26 @@ Une fois la décision prise, plusieurs événements ont lieu :
 - Le développement des fonctionnalités et l'apprentissage des bonnes pratiques progresse : les faire avancer d'une colonne chacune
 - Si une bonne pratique était déjà dans la colonne "test & intégration" : elle est acquise et mise à l'extérieur du plateau 
 - Si au moins trois fonctionnalités sont déjà dans la colonne "test & intégration" : tenter de les mettre en production (cf. _infra_)
-- Un "mail du jour" arrive (tirer une carte)
 
 ## Mise en production
 Pour déployer une fonctionnalité, tirer deux dés :
 - Si le chiffre est entre 1 et 6, alors il y a un événement « Zut » (cf. carte associée)
-- L’évènement peut être évité si une bonne pratique de dév a été adoptée
+- L’évènement peut être évité si une bonne pratique de développement a été adoptée
 - Noter sur une feuille de suivi le numéro du tour et le nombre de fonctionnalités mises en production
 
+## Tous les 5 jours
+
+Un "mail du jour" arrive (tirer une carte)
+
+## Tous les 15 tours
+Malheureusement, les bonnes pratiques de développement sont mises à mal face au turnover et la confiance avec les sponsors disparaît quand un remaniement fait bouger les équipes en place.
+
+Tous les 15 tours :
+- L'ensemble des points sponsors disparaissent
+- On tire 2 dés, si un double est réalisé, toutes les bonnes pratiques sont conservées. Sinon, deux bonnes pratiques au choix doivent être abandonnées.
+
 ## Fin de la partie
-La partie s'arrête après le 20° tour.
+La partie s'arrête après le 45° tour ou 45 minutes.
 
 # Discussion
 Le jeu est surtout un prétexte pour susciter des discussions. C'est une partie importante de son déroulement !
