@@ -15,7 +15,7 @@ C'est un jeu collaboratif : les joueurs doivent gérer collectivement leurs prio
 
 # Matériel
 
-# Déroulement d'une partie
+# Déroulé d'une partie
 ## Mise en place
 
 Placer devant soi le tableau kanban [(télécharger)](https://drive.google.com/file/d/1wGi8Xu0C-6Jjlt0IHSm7kxlWoMk4xvjO/view?usp=sharing)
@@ -52,8 +52,10 @@ Quatre possibilités s'offrent au groupe :
 
 Une fois la décision prise, plusieurs événements ont lieu :
 - Le développement des fonctionnalités et l'apprentissage des bonnes pratiques progresse : les faire avancer d'une colonne chacune
-- Si une bonne pratique était déjà dans la colonne "test & intégration" : elle est acquise et mise à l'extérieur du plateau 
-- Si au moins trois fonctionnalités sont déjà dans la colonne "test & intégration" : tenter de les mettre en production (cf. _infra_)
+- Si une colonne est déjà pleine, la fonctionnalité (ou bonne pratique) va dans la file d'attente. Les éléments dans la file d'attente de chaque colonne sont prioritaires.
+- Si une bonne pratique était déjà dans la colonne "test & intégration" : elle est acquise et mise à l'extérieur du plateau
+- Si trois fonctionnalités sont déjà dans la colonne "test & intégration" : tenter de les mettre en production (cf. _infra_)
+- La colonne "test & intégration" ne peut contenir plus de trois fonctionnalités.
 
 ## Mise en production
 Pour déployer une fonctionnalité, tirer deux dés :
@@ -62,7 +64,6 @@ Pour déployer une fonctionnalité, tirer deux dés :
 - Noter sur une feuille de suivi le numéro du tour et le nombre de fonctionnalités mises en production
 
 ## Tous les 5 jours
-
 Un "mail du jour" arrive (tirer une carte)
 
 ## Tous les 15 tours
@@ -76,11 +77,11 @@ Tous les 15 tours :
 La partie s'arrête après le 45° tour ou 45 minutes.
 
 # Discussion
-Le jeu est surtout un prétexte pour susciter des discussions. C'est une partie importante de son déroulement !
+Le jeu vise à susciter des discussions sur la vie d'un produit. C'est une partie importante de son déroulement !
 
 Idées d'animation :
 
-Quelles métriques pourrait-on utiliser pour mesurer l'avancement dans le jeu ?
+Quelles métriques pourrait-on utiliser pour mesurer la qualité de l'équipe de développement ?
 - Délai de mise en prod de la première fonctionnalité
 - Nombre de fonctionnalités mises en production
 - La somme, pour chaque fonctionnalité, du nombre de jours où elle a été en production (20 - date de mise en prod)
@@ -96,6 +97,8 @@ L'équipe commence sans aucune bonne pratique de développement. Est-ce réalist
 Quelles bonnes pratiques de développement (et carte zut associée) pourrait-on ajouter ? Quels autres mails du jour ?
 
 Les points d'intérêt général n'ont pas d'impact sur la réussite de la partie. Pourquoi sont-ils là ?
+
+
 
 # Contribuer
 N'hésitez pas à contribuer en proposant de nouvelles cartes via [ce lien](https://docs.google.com/spreadsheets/d/1pD_ptL2mSqI8b2kogyoLT2_RpSPFCCoGUml8oFNLRDQ/edit#gid=0), ou en nous contactant directement !
