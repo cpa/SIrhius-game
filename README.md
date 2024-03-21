@@ -63,7 +63,7 @@ Pour déployer une fonctionnalité, tirer deux dés :
 - L’évènement peut être évité si une bonne pratique de développement a été adoptée
 - Noter sur une feuille de suivi le numéro du tour et le nombre de fonctionnalités mises en production
 
-## Tous les 5 jours
+## Tous les 5 tours
 Un "mail du jour" arrive (tirer une carte)
 
 ## Tous les 15 tours
